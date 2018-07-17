@@ -18,10 +18,10 @@ Welcome to Liri
 
 # Packages
 
-  Twitter
-  Spotify
-  Request
-  DotEnv
+    Twitter
+    Spotify
+    Request
+    DotEnv
 
 # Instructions
 
@@ -69,7 +69,7 @@ Welcome to Liri
       https://apps.twitter.com/app/new
 
     Replace
-    
+
       your-twitter-consumer-key
       your-twitter-consumer-secret
       your-access-token-key
@@ -90,6 +90,7 @@ Welcome to Liri
     Movies = 'movie-this'
     Songs = 'spotify-this-song'
     Tweets = 'my-tweets'
+    ReadFile = 'do-what-it-says'
 
   Replace <user input> with the name of a song or title of a movie when searching in the Movie/Song category else remove it from the search
 
