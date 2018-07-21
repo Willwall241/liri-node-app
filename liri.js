@@ -1,16 +1,20 @@
-require("dotenv").config();
 
+// Add all required packages and files
+require("dotenv").config();
 var Spotify = require('node-spotify-api');
 var Twitter = require('twitter');
 var request = require("request");
 var keys = require("./keys.js");
 var fs = require("fs");
 
+//Get Twiter and Spotify APi keys from file
 var spotify = new Spotify(keys.spotify);
 var client = new Twitter(keys.twitter);
 
+//Variable for user input/switch statement control
 var command = process.argv[2];
 
+//Switch Statement based on user input
 switch (command) {
 
   case "my-tweets": {
@@ -37,15 +41,24 @@ switch (command) {
 
 };
 
+//Function to request tweets from twitter
 function getTweets() {
 
+  //Twitter Parameter: Screen_name
   var params = { screen_name: 'JwallerU' };
 
+  //Twitter Get object
   client.get('statuses/user_timeline', params, function (error, tweets, response) {
-    console.log(tweets.length);
-    var n = 1;
-    if (!error) {
+    
+    // console.log(tweets.length);
 
+    //Variable for Tweet number counter
+    var n = 1;
+
+    //If statement control for if there is no error
+    if (!error) {
+      
+      //For loop to console log each tweet
       for (var i = tweets.length -1 ; i >= 0; i--) {
         
         console.log("----Tweet-" + n + "-----------------");
@@ -53,6 +66,7 @@ function getTweets() {
         console.log(tweets[i].text);
         console.log("-----------------------------------");
 
+        //write function callback to log each output to log.txt file
         write("\n" + "--Tweet-" + n + "-----------------------------------------------" + "\n" +
         "\n" + tweets[i].created_at + "\n" +
         "\n" + tweets[i].text + "\n" +
@@ -67,6 +81,7 @@ function getTweets() {
 
 }
 
+//Spotify song search function 
 function songSearch() {
 
 
@@ -113,6 +128,7 @@ function movieSearch() {
     movieName = "Mr. Nobody";
 
   }
+
   var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
 
   request(queryUrl, function (error, response, body) {

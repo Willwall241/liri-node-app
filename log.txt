@@ -1,63 +1,37 @@
 
---Tweet1-----------------------------------------------
-
-Tue Jul 17 02:57:31 +0000 2018
-
-This is my first tweet
+--Spotify-----------------------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Song Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+Album Link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
 -------------------------------------------------------
---Tweet2-----------------------------------------------
-
-Tue Jul 17 03:41:22 +0000 2018
-
-My gf watches friends while I code...
+--Spotify-----------------------------------------------
+Artist: Gorillaz
+Song: Humility (feat. George Benson)
+Song Link: https://open.spotify.com/track/5fGWdNGGnvKrrHL6U7c1Vp
+Album: Humility (feat. George Benson)
+Album Link: https://open.spotify.com/album/3S41zT1PsTvoqHHEUv7xCc
 -------------------------------------------------------
---Tweet4-----------------------------------------------
-
-Tue Jul 17 03:42:00 +0000 2018
-
-Rachel is now moving out
+--Movie-----------------------------------------------
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 -------------------------------------------------------
---Tweet3-----------------------------------------------
-
-Tue Jul 17 03:41:48 +0000 2018
-
-Joey gave Chandler the big white dog statue.
--------------------------------------------------------
---Tweet6-----------------------------------------------
-
-Tue Jul 17 03:42:20 +0000 2018
-
-I should only go to bed
--------------------------------------------------------
---Tweet5-----------------------------------------------
-
-Tue Jul 17 03:42:09 +0000 2018
-
-I should probably just go to bed
--------------------------------------------------------
---Tweet8-----------------------------------------------
-
-Tue Jul 17 03:43:39 +0000 2018
-
-... Garlic salt is good on popcorn!
--------------------------------------------------------
---Tweet7-----------------------------------------------
-
-Tue Jul 17 03:43:22 +0000 2018
-
-Bed is all there is
--------------------------------------------------------
---Tweet9-----------------------------------------------
-
-Tue Jul 17 03:43:46 +0000 2018
-
-THERE IS ONLY BED!
--------------------------------------------------------
---Tweet10-----------------------------------------------
-
-Tue Jul 17 03:43:57 +0000 2018
-
-Test End
+--Movie-----------------------------------------------
+Title: Ferris Bueller's Day Off
+Release Year: 1986
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 79%
+Country: USA
+Language: English, German
+Plot: A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that.
+Actors: Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones
 -------------------------------------------------------
 --Tweet-1-----------------------------------------------
 
@@ -71,29 +45,23 @@ Tue Jul 17 03:41:22 +0000 2018
 
 My gf watches friends while I code...
 -------------------------------------------------------
---Tweet-3-----------------------------------------------
-
-Tue Jul 17 03:41:48 +0000 2018
-
-Joey gave Chandler the big white dog statue.
--------------------------------------------------------
 --Tweet-4-----------------------------------------------
 
 Tue Jul 17 03:42:00 +0000 2018
 
 Rachel is now moving out
 -------------------------------------------------------
+--Tweet-3-----------------------------------------------
+
+Tue Jul 17 03:41:48 +0000 2018
+
+Joey gave Chandler the big white dog statue.
+-------------------------------------------------------
 --Tweet-6-----------------------------------------------
 
 Tue Jul 17 03:42:20 +0000 2018
 
 I should only go to bed
--------------------------------------------------------
---Tweet-5-----------------------------------------------
-
-Tue Jul 17 03:42:09 +0000 2018
-
-I should probably just go to bed
 -------------------------------------------------------
 --Tweet-7-----------------------------------------------
 
@@ -119,27 +87,9 @@ Tue Jul 17 03:43:57 +0000 2018
 
 Test End
 -------------------------------------------------------
---Movie-----------------------------------------------
-Title: Toy Story
-Release Year: 1995
-IMDB Rating: 8.3
-Rotten Tomatoes Rating: 100%
-Country: USA
-Language: English
-Plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
-Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
--------------------------------------------------------
---Spotify-----------------------------------------------
-Artist: Gorillaz
-Song: Humility (feat. George Benson)
-Song Link: https://open.spotify.com/track/5fGWdNGGnvKrrHL6U7c1Vp
-Album: Humility (feat. George Benson)
-Album Link: https://open.spotify.com/album/3S41zT1PsTvoqHHEUv7xCc
--------------------------------------------------------
---Spotify-----------------------------------------------
-Artist: Backstreet Boys
-Song: I Want It That Way
-Song Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-Album: The Hits--Chapter One
-Album Link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+--Tweet-5-----------------------------------------------
+
+Tue Jul 17 03:42:09 +0000 2018
+
+I should probably just go to bed
 -------------------------------------------------------
